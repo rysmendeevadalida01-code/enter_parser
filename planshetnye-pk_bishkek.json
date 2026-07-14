@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Планшет 10.1\" Lenovo Tab MediaTek Helio G85 (8C, 2x A75 @2.0GHz+6x A55 @1.8GHz), 4GB,128GB eMMC,Int Arm Mali-G52 MC2 GPU, WUXGA (1920x1200) TFT LCD (IPS) 60Hz, 4G, WiFi, BТ, GPS+GLONAS +Galileo+Beidou+A-GPS,USB-C,Android 14, Metal Luna Grey [ZAEJ0000AE]",
+        "articul": "289081",
+        "price": 17524,
+        "gb": "4GB",
+        "screen": "10.1\""
+    },
+    {
+        "name": "Apple iPad 11 (A16) 128GB Wi-Fi (SILVER)",
+        "articul": "290600",
+        "price": 45308,
+        "gb": "128GB",
+        "screen": "None"
+    },
+    {
+        "name": "Apple iPad 11 (A16) 256GB Wi-Fi (BLUE)",
+        "articul": "290604",
+        "price": 58544,
+        "gb": "256GB",
+        "screen": "None"
+    },
+    {
+        "name": "Apple iPad Air 11\" M4, 128 GB (2026) (Gray)",
+        "articul": "290595",
+        "price": 78972,
+        "gb": "128 GB",
+        "screen": "11\""
+    },
+    {
+        "name": "Apple iPad Pro 13\" M5 (9СPU, 10GPU) MDYJ4 256GB Space Black",
+        "articul": "291479",
+        "price": 146948,
+        "gb": "256GB",
+        "screen": "13\""
+    },
+    {
+        "name": "Планшет 10.1\" Lenovo Tab MediaTek Helio G85 (8C, 2x A75 @2.0GHz+6x A55 @1.8GHz), 4GB,128GB eMMC,Int Arm Mali-G52 MC2 GPU, WUXGA (1920x1200) TFT LCD (IPS) 60Hz, 4G, WiFi, BТ, GPS+GLONAS +Galileo+Beidou+A-GPS,USB-C,Android 14, Metal Luna Grey [ZAEJ0000AE]",
+        "articul": "289081",
+        "price": 17524,
+        "gb": "4GB",
+        "screen": "10.1\""
+    },
+    {
+        "name": "Apple iPad 11 (A16) 128GB Wi-Fi (SILVER)",
+        "articul": "290600",
+        "price": 45308,
+        "gb": "128GB",
+        "screen": "None"
+    },
+    {
+        "name": "Apple iPad 11 (A16) 256GB Wi-Fi (BLUE)",
+        "articul": "290604",
+        "price": 58544,
+        "gb": "256GB",
+        "screen": "None"
+    },
+    {
+        "name": "Apple iPad Air 11\" M4, 128 GB (2026) (Gray)",
+        "articul": "290595",
+        "price": 78972,
+        "gb": "128 GB",
+        "screen": "11\""
+    },
+    {
+        "name": "Apple iPad Pro 13\" M5 (9СPU, 10GPU) MDYJ4 256GB Space Black",
+        "articul": "291479",
+        "price": 146948,
+        "gb": "256GB",
+        "screen": "13\""
+    }
+]

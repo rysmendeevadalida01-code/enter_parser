@@ -1,0 +1,982 @@
+[
+    {
+        "name": "Lenovo IP3 Celeron N4020 1.1-2.8GHz,4GB,SSD 120GB,15.6\" FHD,RUS,DOS HDMI, BLACK",
+        "articul": "284444",
+        "price": 21075,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad V14 Iron Grey Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 500GB HDD, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259384",
+        "price": 22028,
+        "gb": "4GB",
+        "screen": "14.0\""
+    },
+    {
+        "name": "Lenovo Ideapad V14 Iron Grey Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 128GB SSD, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "240497",
+        "price": 22517,
+        "gb": "4GB",
+        "screen": "14.0\""
+    },
+    {
+        "name": "Lenovo Ideapad V14 Iron Grey Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 1TB HDD, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259385",
+        "price": 22517,
+        "gb": "4GB",
+        "screen": "14.0\""
+    },
+    {
+        "name": "Lenovo IP3 Celeron DC N4020 1.1-2.8GHz,4GB,SSD 240GB,15.6\"HD,RUS,DOS HDMI, BLACK",
+        "articul": "230856",
+        "price": 22688,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS E410 KA-CL4128, Intel Celeron N4500 (Up to 2.8GHz), 4GB RAM, 128GB eMMC, 14’’FHD, Intel UHD Graphics, HDMI, Wi-Fi, BT, Type-C, MicroSD card reader, WIN11H, Star Black, RUS/ENG,",
+        "articul": "290610",
+        "price": 22909,
+        "gb": "4GB",
+        "screen": "None"
+    },
+    {
+        "name": "Lenovo IP3 Celeron DC N4020 1.1-2.8GHz,4GB,1TB,15.6\"HD,RUS,DOS HDMI, BLACK",
+        "articul": "217402",
+        "price": 23193,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo IP3 Celeron N4020 1.1-2.8GHz,4GB,SSD 240GB,15.6\" FHD,RUS,DOS HDMI, BLACK",
+        "articul": "230980",
+        "price": 23193,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad V14 Iron Grey Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 256GB M.2 NVMe PCIe, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "240498",
+        "price": 23496,
+        "gb": "4GB",
+        "screen": "14.0\""
+    },
+    {
+        "name": "Lenovo IP3 Celeron N4020 1.1-2.8GHz,4GB,1TB,15.6\" FHD,RUS,DOS HDMI, BLACK",
+        "articul": "223479",
+        "price": 23697,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo IP3 Celeron DC N4020 1.1-2.8GHz,4GB,SSD 480GB,15.6\"HD,RUS,DOS HDMI, BLACK",
+        "articul": "230979",
+        "price": 23898,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "DELL WYSE 5470 CELERON 4100 4GB 256 SSD 14’’ DOS BACKLIGHT",
+        "articul": "291812",
+        "price": 23927,
+        "gb": "4GB",
+        "screen": "None"
+    },
+    {
+        "name": "Lenovo IP3 Celeron N4020 1.1-2.8GHz,4GB,SSD 480GB,15.6\" FHD,RUS,DOS HDMI, BLACK",
+        "articul": "282311",
+        "price": 24403,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 4GB, 500GB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259332",
+        "price": 25258,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad V14 Iron Grey Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 512GB M.2 NVMe PCIe, AMD Radeon™ Graphics, 14.0\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "240499",
+        "price": 26629,
+        "gb": "4GB",
+        "screen": "14.0\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 4GB, 128GB M.2 NVMe PCIe, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "213885",
+        "price": 26727,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 500GB HDD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259386",
+        "price": 26923,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 4GB, 1TB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259333",
+        "price": 27216,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 128GB SSD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237091",
+        "price": 27216,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 128GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237111",
+        "price": 27412,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 1TB HDD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259387",
+        "price": 27412,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 4GB, 256GB SSD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "222411",
+        "price": 27706,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 256GB SSD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237092",
+        "price": 27902,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259345",
+        "price": 28881,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259351",
+        "price": 28881,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire AL15-32P Lite Steel gray Intel N4500 (up to 2.8Ghz), 8GB, 128GB SSD M.2 NVMe PCIe, Intel HD Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "282324",
+        "price": 29370,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259344",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259350",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 512GB M.2 NVMe PCIe, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237093",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "222413",
+        "price": 29566,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "170964",
+        "price": 29566,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 128GB M.2 NVMe PCIe, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "213886",
+        "price": 29664,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 500GB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259334",
+        "price": 29664,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 256GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237113",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 500GB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259401",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 1TB HDD + 256GB M.2 NVMe PCIe, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259388",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 1TB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259335",
+        "price": 30153,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire AL15-32P Lite Steel gray Intel N4500 (up to 2.8Ghz), 8GB, 256GB SSD M.2 NVMe PCIe, Intel HD Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "282325",
+        "price": 30349,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259338",
+        "price": 30349,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 1TB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259402",
+        "price": 30349,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Ноутбук HP 15-FC0171NIA AMD Athlon™ Silver 7120U (up to 3.5Ghz), 8GB DDR5, 256GB SSD M2 NVMe, AMD Radeon 610 Graphics, 15.6\" FHD, 250nits, Type-C, HDMI, WiFi, BT, DOS, ENG-RUS, серебро [BK5M5EA#BH5]",
+        "articul": "285416",
+        "price": 30349,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 256GB SSD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "222412",
+        "price": 30643,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259336",
+        "price": 30839,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 128GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237114",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 500GB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259403",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Notebook Foxcon Metal Silver Intel Core i5-5257U (2.7-3.1Ghz), 8GB, 120GB SSD, Intel HD Graphics 6100, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, HD WebCam, UltraSlim, Backlight Keyboard, Eng-Rus",
+        "articul": "188265",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 128GB SSD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237179",
+        "price": 31034,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 500GB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259438",
+        "price": 31034,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 15-fc0171nia Athlon Silver 7120U 2.4-3.5GHz,8GB,SSD 256GB,15.6\" FHD,AMD Radeon,RU,SILVER",
+        "articul": "289742",
+        "price": 31159,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 128GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "193443",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259346",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 128GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "170966",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259352",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 1TB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259439",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 128GB M.2 NVMe PCIe, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237131",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 1TB HDD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259413",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 500GB HDD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259411",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 500GB HDD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259464",
+        "price": 31524,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 256GB SSD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237180",
+        "price": 31524,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "258980",
+        "price": 31622,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 128GB SSD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "236849",
+        "price": 31720,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 1TB HDD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259466",
+        "price": 31720,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259347",
+        "price": 31818,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259353",
+        "price": 31818,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 250 G7 Dark Ash Intel Pentium Quad Core N5030 (up to 3.1Ghz), 4GB DDR4, 128GB M.2 NVMe PCIe, Intel® UHD Graphics 605, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "251723",
+        "price": 31818,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 1TB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259404",
+        "price": 31818,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 256GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237117",
+        "price": 31818,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 256GB M.2 NVMe PCIe, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237181",
+        "price": 31818,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Notebook Foxcon Metal Silver Intel Core i5-5257U (2.7-3.1Ghz), 8GB, 256GB SSD, Intel HD Graphics 6100, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, HD WebCam, UltraSlim, Backlight Keyboard, Eng-Rus",
+        "articul": "188266",
+        "price": 31818,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "222414",
+        "price": 32013,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "170967",
+        "price": 32013,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 256GB M.2 NVMe PCIe, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237116",
+        "price": 32013,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 128GB M.2 NVMe PCIe, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237213",
+        "price": 32013,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 1TB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "258982",
+        "price": 32111,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 250 G7 Dark Ash Intel Pentium Quad Core N5030 (up to 3.1Ghz), 4GB DDR4, 256GB M.2 NVMe PCIe, Intel® UHD Graphics 605, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "251725",
+        "price": 32307,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 256GB SSD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237133",
+        "price": 32307,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 256GB SSD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "181656",
+        "price": 32503,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 6GB, 1TB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259337",
+        "price": 32503,
+        "gb": "6GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 256GB M.2 NVMe PCIe, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "236851",
+        "price": 32699,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 256GB SSD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "236850",
+        "price": 32699,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 250 G7 Dark Ash Intel Pentium Quad Core N5030 (up to 3.1Ghz), 8GB DDR4, 128GB M.2 NVMe PCIe, Intel® UHD Graphics 605, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "251724",
+        "price": 32797,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 256GB M.2 NVMe PCIe, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237135",
+        "price": 32797,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 256GB M.2 NVMe PCIe, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237214",
+        "price": 32992,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 256GB SSD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "245113",
+        "price": 32992,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 8GB, 500GB HDD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259465",
+        "price": 32992,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 8GB, 128GB SSD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237182",
+        "price": 32992,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 8GB, 500GB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259440",
+        "price": 32992,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 8GB, 1TB HDD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259467",
+        "price": 33188,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 3 A325-45 N4500 1.1-2.8GHz,8GB,SSD 256GB,15.6\" IPS FHD,RUS,SILVER",
+        "articul": "274958",
+        "price": 33276,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire A315-57G Black Intel Core i3-1005G1 (up to 3.4Ghz), 4GB DDR4, 128GB M.2 NVMe PCIe, Nvidia Geforce MX330 2GB GDDR5, 15.6\" LED HD, WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "236962",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire A315-57G Black Intel Core i3-1005G1 (up to 3.4Ghz), 4GB DDR4, 500GB HDD, Nvidia Geforce MX330 2GB GDDR5, 15.6\" LED HD, WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259040",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire AL15-32P Lite Steel gray Intel N4500 (up to 2.8Ghz), 8GB, 512GB SSD M.2 NVMe PCIe, Intel HD Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "282326",
+        "price": 33286,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X509JA INDIGO IRIDESCENSE Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 128GB M.2 NVMe PCIe, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "233736",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X509JA INDIGO IRIDESCENSE Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259370",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X509JA Silver Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 128GB M.2 NVMe PCIe, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "213895",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X509JA Silver Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259356",
+        "price": 33286,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 250 G7 Dark Ash Intel Pentium Quad Core N5030 (up to 3.1Ghz), 8GB DDR4, 256GB M.2 NVMe PCIe, Intel® UHD Graphics 605, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "251726",
+        "price": 33286,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 8GB, 1TB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259441",
+        "price": 33286,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 8GB DDR4, 128GB M.2 NVMe PCIe, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237132",
+        "price": 33286,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 8GB DDR4, 1TB HDD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259414",
+        "price": 33286,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 1TB HDD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259387",
+        "price": 27412,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 4GB, 256GB SSD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "222411",
+        "price": 27706,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 256GB SSD, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237092",
+        "price": 27902,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259345",
+        "price": 28881,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259351",
+        "price": 28881,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire AL15-32P Lite Steel gray Intel N4500 (up to 2.8Ghz), 8GB, 128GB SSD M.2 NVMe PCIe, Intel HD Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "282324",
+        "price": 29370,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259344",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259350",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 512GB M.2 NVMe PCIe, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237093",
+        "price": 29370,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 4GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "222413",
+        "price": 29566,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 256GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "170964",
+        "price": 29566,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 128GB M.2 NVMe PCIe, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "213886",
+        "price": 29664,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 500GB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259334",
+        "price": 29664,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 256GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237113",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 500GB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259401",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 Silver Intel Dual Core N4020 (up to 2.8Ghz), 4GB, 1TB HDD + 256GB M.2 NVMe PCIe, Intel HD Graphics, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259388",
+        "price": 29860,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 1TB HDD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "259335",
+        "price": 30153,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire AL15-32P Lite Steel gray Intel N4500 (up to 2.8Ghz), 8GB, 256GB SSD M.2 NVMe PCIe, Intel HD Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "282325",
+        "price": 30349,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259338",
+        "price": 30349,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 4GB, 1TB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259402",
+        "price": 30349,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Ноутбук HP 15-FC0171NIA AMD Athlon™ Silver 7120U (up to 3.5Ghz), 8GB DDR5, 256GB SSD M2 NVMe, AMD Radeon 610 Graphics, 15.6\" FHD, 250nits, Type-C, HDMI, WiFi, BT, DOS, ENG-RUS, серебро [BK5M5EA#BH5]",
+        "articul": "285416",
+        "price": 30349,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X515MA Grey Intel Quad Core N4120 (up to 2.6Ghz), 8GB, 256GB SSD, Intel UHD Graphics 600, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, Win10, Eng-Rus",
+        "articul": "222412",
+        "price": 30643,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 4GB, 1TB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), DVDRW, WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259336",
+        "price": 30839,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 128GB SSD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237114",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3 15ADA6 Arctic Grey AMD 3020e (up to 2.6Ghz), 8GB, 500GB HDD, AMD Radeon™ Graphics, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259403",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Notebook Foxcon Metal Silver Intel Core i5-5257U (2.7-3.1Ghz), 8GB, 120GB SSD, Intel HD Graphics 6100, 15.6\" IPS FULL HD (1920x1080), WiFi, BT, HD WebCam, UltraSlim, Backlight Keyboard, Eng-Rus",
+        "articul": "188265",
+        "price": 30839,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 128GB SSD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237179",
+        "price": 31034,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 500GB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259438",
+        "price": 31034,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "HP 15-fc0171nia Athlon Silver 7120U 2.4-3.5GHz,8GB,SSD 256GB,15.6\" FHD,AMD Radeon,RU,SILVER",
+        "articul": "289742",
+        "price": 31159,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 128GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "193443",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Gold Intel Core i3-7020U (up to 3.1Ghz), 8GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259346",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 128GB SSD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "170966",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "ASUS X540UB Silver Intel Core i3-7020U (up to 3.1Ghz), 8GB, 500GB HDD, Nvidia Geforce MX110 2GB, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, DOS, Eng-Rus",
+        "articul": "259352",
+        "price": 31328,
+        "gb": "8GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 1TB HDD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259439",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 128GB M.2 NVMe PCIe, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237131",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 1TB HDD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259413",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad S145-15AST Black A6-9225 (up to 3.00Ghz), 4GB DDR4, 500GB HDD, AMD Radeon R7 M445 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259411",
+        "price": 31328,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15ADA05 Black Ryzen 3 3250U (up to 3.5Ghz), 4GB, 500GB HDD, AMD Radeon RX Vega 3, 15.6\" LED, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "259464",
+        "price": 31524,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Lenovo Ideapad 3-15IML05 Platinum Grey Intel Pentium 6405U (2.4Ghz), 4GB, 256GB SSD, Nvidia GeForce MX130 2GB, 15.6\" LED HD, WiFi, BT, Cam, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "237180",
+        "price": 31524,
+        "gb": "4GB",
+        "screen": "15.6\""
+    },
+    {
+        "name": "Acer Aspire 315-56 Indigo Blue Intel Core i3-1005G1 (up to 3.4Ghz), 4GB, 500GB HDD, Intel HD Graphics 620, 15.6\" LED FULL HD (1920x1080), WiFi, BT, Cam, LAN RJ45, DOS, Eng-Rus Заводская Клавиатура",
+        "articul": "258980",
+        "price": 31622,
+        "gb": "4GB",
+        "screen": "15.6\""
+    }
+]

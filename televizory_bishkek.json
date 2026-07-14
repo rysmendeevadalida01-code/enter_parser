@@ -1,0 +1,604 @@
+[
+    {
+        "name": "YASIN LED TV 32E9000 32\" HD 1366x768,450 cd/m2 Smart 1000000:1 6ms DVB-T2/C/S2 2xHDMI,USB,WIFI",
+        "articul": "292614",
+        "price": 9232,
+        "gb": "None",
+        "screen": "32\""
+    },
+    {
+        "name": "YASIN LED TV 32G11 32\" 1366x786, Android 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "236361",
+        "price": 11495,
+        "gb": "None",
+        "screen": "32\""
+    },
+    {
+        "name": "YASIN LED TV 43E9000 43\" HD 1920x1080,450 cd/m2 Smart 1000000:1 6ms DVB-T2/C/S2 2xHDMI,VGA,USB,WIFI",
+        "articul": "276610",
+        "price": 14722,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "YASIN LED TV 43UD81 43\" FHD 1920x1080, WebOS 450 cd/m2 1000000:1 6ms 178/178 DVB-T2/C/S2 WiFi",
+        "articul": "234758",
+        "price": 17041,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "Телевизор LG 32LQ630B6LA",
+        "articul": "221280",
+        "price": 18490,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 32A5Q",
+        "articul": "290262",
+        "price": 19990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 50UD81 50\" 4K UHD 3840x2160, WebOS 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "260821",
+        "price": 24604,
+        "gb": "None",
+        "screen": "50\""
+    },
+    {
+        "name": "Телевизор Hisense 43E7Q",
+        "articul": "290263",
+        "price": 27990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 55UD81 55\" 4K UHD 3840x2160, WebOS 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "269537",
+        "price": 28739,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор Hisense 50E7S",
+        "articul": "290264",
+        "price": 30990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 43E7Q 43\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 14Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, RJ45, HDMIx3, USBx2",
+        "articul": "292697",
+        "price": 31328,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "YASIN LED TV 55Q90 55\" 4K UHD 3860×2160, Android 11 + GoogleTV 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "252188",
+        "price": 31663,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор LG 43UA75009LA",
+        "articul": "287547",
+        "price": 32990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 50E7S 50\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 20Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, CI+, RJ45, HDMIx3, USBx2",
+        "articul": "292698",
+        "price": 33776,
+        "gb": "None",
+        "screen": "50\""
+    },
+    {
+        "name": "Телевизор Hisense 55E7S",
+        "articul": "290265",
+        "price": 34490,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 55E7S 55\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 20Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, CI+, RJ45, HDMIx3, USBx2",
+        "articul": "292699",
+        "price": 37692,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор Samsung UE43U8000FUXCE",
+        "articul": "282266",
+        "price": 38990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 65Q90 65\" 4K UHD 3840x2160, Android 11 + GoogleTV 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "257394",
+        "price": 41242,
+        "gb": "None",
+        "screen": "65\""
+    },
+    {
+        "name": "Телевизор Haier 55 Smart TV S4",
+        "articul": "273072",
+        "price": 45990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE50U8000FUXCE",
+        "articul": "282267",
+        "price": 47990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE50Q7FAAUXCE",
+        "articul": "282257",
+        "price": 52990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 55E8Q",
+        "articul": "290266",
+        "price": 54990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Haier 55 Smart TV AX Pro",
+        "articul": "228305",
+        "price": 61990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55Q7FAAUXCE",
+        "articul": "282258",
+        "price": 62990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 75E7Q",
+        "articul": "282255",
+        "price": 63990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 65E8Q",
+        "articul": "290267",
+        "price": 66990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG 50QNED80A6A",
+        "articul": "274977",
+        "price": 69990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE65U8000FUXCE",
+        "articul": "282269",
+        "price": 74990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE65M70HAUXCE",
+        "articul": "292125",
+        "price": 80990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65Q7FAAUXCE",
+        "articul": "282259",
+        "price": 82990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 85E7Q",
+        "articul": "282256",
+        "price": 97990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED48C5RLA",
+        "articul": "277392",
+        "price": 111990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Haier 65 OLED S9",
+        "articul": "273073",
+        "price": 123990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55LS03FAUXCE",
+        "articul": "286205",
+        "price": 124990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG 75QNED80A6A",
+        "articul": "274982",
+        "price": 126990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED55C5RLA",
+        "articul": "277393",
+        "price": 136990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55S85HAEXCE",
+        "articul": "292123",
+        "price": 142990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 100E7Q PRO",
+        "articul": "280834",
+        "price": 187990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65S85HAEXCE",
+        "articul": "292124",
+        "price": 187990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65S85FAEXCE",
+        "articul": "282260",
+        "price": 200990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED77C5RLA",
+        "articul": "288306",
+        "price": 279990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE77S85FAEXCE",
+        "articul": "282263",
+        "price": 286990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED77G5RLA",
+        "articul": "277396",
+        "price": 320990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 32E9000 32\" HD 1366x768,450 cd/m2 Smart 1000000:1 6ms DVB-T2/C/S2 2xHDMI,USB,WIFI",
+        "articul": "292614",
+        "price": 9232,
+        "gb": "None",
+        "screen": "32\""
+    },
+    {
+        "name": "YASIN LED TV 32G11 32\" 1366x786, Android 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "236361",
+        "price": 11495,
+        "gb": "None",
+        "screen": "32\""
+    },
+    {
+        "name": "YASIN LED TV 43E9000 43\" HD 1920x1080,450 cd/m2 Smart 1000000:1 6ms DVB-T2/C/S2 2xHDMI,VGA,USB,WIFI",
+        "articul": "276610",
+        "price": 14722,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "YASIN LED TV 43UD81 43\" FHD 1920x1080, WebOS 450 cd/m2 1000000:1 6ms 178/178 DVB-T2/C/S2 WiFi",
+        "articul": "234758",
+        "price": 17041,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "Телевизор LG 32LQ630B6LA",
+        "articul": "221280",
+        "price": 18490,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 32A5Q",
+        "articul": "290262",
+        "price": 19990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 50UD81 50\" 4K UHD 3840x2160, WebOS 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "260821",
+        "price": 24604,
+        "gb": "None",
+        "screen": "50\""
+    },
+    {
+        "name": "Телевизор Hisense 43E7Q",
+        "articul": "290263",
+        "price": 27990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 55UD81 55\" 4K UHD 3840x2160, WebOS 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "269537",
+        "price": 28739,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор Hisense 50E7S",
+        "articul": "290264",
+        "price": 30990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 43E7Q 43\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 14Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, RJ45, HDMIx3, USBx2",
+        "articul": "292697",
+        "price": 31328,
+        "gb": "None",
+        "screen": "43\""
+    },
+    {
+        "name": "YASIN LED TV 55Q90 55\" 4K UHD 3860×2160, Android 11 + GoogleTV 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "252188",
+        "price": 31663,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор LG 43UA75009LA",
+        "articul": "287547",
+        "price": 32990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 50E7S 50\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 20Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, CI+, RJ45, HDMIx3, USBx2",
+        "articul": "292698",
+        "price": 33776,
+        "gb": "None",
+        "screen": "50\""
+    },
+    {
+        "name": "Телевизор Hisense 55E7S",
+        "articul": "290265",
+        "price": 34490,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 55E7S 55\" 4K Ultra HD (3840x2160) QLED DLED, 60 Гц, Smart VIDAA, 20Вт, 178°, Wi-Fi, Bluetooth, DVB-T2/T/C/S2/S, CI+, RJ45, HDMIx3, USBx2",
+        "articul": "292699",
+        "price": 37692,
+        "gb": "None",
+        "screen": "55\""
+    },
+    {
+        "name": "Телевизор Samsung UE43U8000FUXCE",
+        "articul": "282266",
+        "price": 38990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "YASIN LED TV 65Q90 65\" 4K UHD 3840x2160, Android 11 + GoogleTV 450 cd/m2 1000000:1 6ms 178/178 WiFi",
+        "articul": "257394",
+        "price": 41242,
+        "gb": "None",
+        "screen": "65\""
+    },
+    {
+        "name": "Телевизор Haier 55 Smart TV S4",
+        "articul": "273072",
+        "price": 45990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE50U8000FUXCE",
+        "articul": "282267",
+        "price": 47990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE50Q7FAAUXCE",
+        "articul": "282257",
+        "price": 52990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 55E8Q",
+        "articul": "290266",
+        "price": 54990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Haier 55 Smart TV AX Pro",
+        "articul": "228305",
+        "price": 61990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55Q7FAAUXCE",
+        "articul": "282258",
+        "price": 62990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 75E7Q",
+        "articul": "282255",
+        "price": 63990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 65E8Q",
+        "articul": "290267",
+        "price": 66990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG 50QNED80A6A",
+        "articul": "274977",
+        "price": 69990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE65U8000FUXCE",
+        "articul": "282269",
+        "price": 74990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung UE65M70HAUXCE",
+        "articul": "292125",
+        "price": 80990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65Q7FAAUXCE",
+        "articul": "282259",
+        "price": 82990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 85E7Q",
+        "articul": "282256",
+        "price": 97990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED48C5RLA",
+        "articul": "277392",
+        "price": 111990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Haier 65 OLED S9",
+        "articul": "273073",
+        "price": 123990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55LS03FAUXCE",
+        "articul": "286205",
+        "price": 124990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG 75QNED80A6A",
+        "articul": "274982",
+        "price": 126990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED55C5RLA",
+        "articul": "277393",
+        "price": 136990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE55S85HAEXCE",
+        "articul": "292123",
+        "price": 142990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Hisense 100E7Q PRO",
+        "articul": "280834",
+        "price": 187990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65S85HAEXCE",
+        "articul": "292124",
+        "price": 187990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE65S85FAEXCE",
+        "articul": "282260",
+        "price": 200990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED77C5RLA",
+        "articul": "288306",
+        "price": 279990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор Samsung QE77S85FAEXCE",
+        "articul": "282263",
+        "price": 286990,
+        "gb": "None",
+        "screen": "None"
+    },
+    {
+        "name": "Телевизор LG OLED77G5RLA",
+        "articul": "277396",
+        "price": 320990,
+        "gb": "None",
+        "screen": "None"
+    }
+]
