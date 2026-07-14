@@ -14,7 +14,6 @@ class_names = {
 }
 
 def get_html(url: str) -> str:
-    """Получает HTML-код страницы по полному URL."""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
@@ -28,18 +27,24 @@ def get_soup(html: str) -> BeautifulSoup:
 def extract_simple_specs(text: str) -> dict:
     specs = {'gb': 'None', 'screen': 'None'}
     
-    gb_match = re.search(r'(\d+\s*(?:GB|TB|ГБ|Gb))', text, re.IGNORECASE)
-    if gb_match:
-        specs['gb'] = gb_match.group(1).strip()
+    def extract_simple_specs(text: str) -> dict:
+        specs = {'gb': 'None', 'screen': 'None'}
         
-    screen_match = re.search(r'(\d+\.?\d*)"', text)
-    if screen_match:
-        specs['screen'] = f'{screen_match.group(1)}"'
+        words = text.split()
         
-    return specs
+        for word in words:
+            word_clean = word.strip(',()') # убираем лишние запятые и скобки вокруг слова
+            word_lower = word_clean.lower()
+            
+            if 'gb' in word_lower or 'tb' in word_lower or 'гб' in word_lower:
+                specs['gb'] = word_clean
+                
+            elif '"' in word_clean:
+                specs['screen'] = word_clean
+                
+        return specs
 
 def parse_cards(soup: BeautifulSoup) -> list[dict]:
-    """Находит карточки ноутбуков и собирает name, articul, price, gb, screen."""
     result = []
     
     cards = soup.find_all('div', class_='product') or soup.find_all('div', class_='product-container')
@@ -127,7 +132,7 @@ def parse_notebooks(total_pages: int = 3) -> list[dict]:
             
     return all_products
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     filename = 'noutbuki_bishkek'
     print(f"Запуск парсинга ноутбуков ({CATEGORY_PATH})...")
     
