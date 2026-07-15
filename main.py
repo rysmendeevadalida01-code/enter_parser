@@ -131,7 +131,7 @@ def parse_notebooks(total_pages: int = 3) -> list[dict]:
             
     return all_products
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     filename = 'noutbuki_bishkek'
     print(f"Запуск парсинга ноутбуков ({CATEGORY_PATH})...")
     
